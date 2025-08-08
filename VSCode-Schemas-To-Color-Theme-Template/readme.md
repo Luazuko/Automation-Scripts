@@ -1,1 +1,0 @@
-A Python script that parses the included Visual Studio Code schema .json files to create a complete and easy to use .json file for creating color themes. You can then take the produced file and use it instead of the default one VSCode gives you when you go to create a color theme. The schema files were acquired from [this repo.](https://github.com/wraith13/vscode-schemas)
